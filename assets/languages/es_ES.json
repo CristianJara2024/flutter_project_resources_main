@@ -1,0 +1,17 @@
+{
+    "login_page": "Página de inicio de sesión",
+    "login": "Iniciar sesión",
+    "options_page" : "Página de opciones",
+    "products" : "Productos",
+    "transactions" : "Transacciones",
+    "products_page" : "Página de productos",
+    "search": "Buscar",
+    "enter_sku_here": "Ingresar SKU aquí",
+    "transaction_page": "Pagina de Transaciones",
+    "transaction": "Transacción",
+    "product_id": "Id del Producto",
+    "quantity": "Cantidad",
+    "amount": "Importe",
+    "fee": "Cuota",
+    "comment": "Comentario"
+}

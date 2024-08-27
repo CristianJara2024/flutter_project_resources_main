@@ -1,0 +1,17 @@
+{
+    "login_page": "Login Page",
+    "login": "Login",
+    "options_page" : "Options Page",
+    "products" : "Products",
+    "transactions" : "Transactions",
+    "products_page" : "Products Page",
+    "search": "Search",
+    "enter_sku_here": "Enter SKU here",
+    "transaction_page": "Transaction Page",
+    "transaction": "Transaction",
+    "product_id": "Product Id",
+    "quantity": "Quantity",
+    "amount": "Amount",
+    "fee": "Fee",
+    "comment": "Comment"
+}
