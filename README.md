@@ -1,4 +1,4 @@
-# flutter_project_resources
+# flutter_project_resources main
 
 A new Flutter project.
 
